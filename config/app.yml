@@ -1,0 +1,5 @@
+all:
+  sf_emailmanager_plugin:
+    key:    GET_THE_KEY_FROM_EMAILMANAGER
+    from:   foo@bar.com
+    name:   Foo Bar
